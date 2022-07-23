@@ -4,3 +4,15 @@
 .nav-menu{
     text-align: right;
 }
+.nav-spacing{
+    margin: 0 0 0 10px;
+    text-decoration: none; 
+    color: blue;
+  }
+  .nav-menu{
+      text-align: right;
+  }
+  .headers{
+    text-align: center; 
+    margin: 0 0 80px;
+  }
